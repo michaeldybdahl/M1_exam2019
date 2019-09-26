@@ -5,6 +5,8 @@ We have found a dataset containing data about students acohol consumption, their
 In the repository, we have uploaded the dataset, two PDF files (Stakeholder report and the notebook). 
 Link to notebook in colab: https://colab.research.google.com/drive/15ETOHyj6L8Lv8lej6tVbqit09RjP2cCE 
 
+NOTICE: When you run our notebook, some of the results for the supervised machinelearning is going to be slightly different (even though we used seed), but it shouldt affect the conclusions.
+
 # Problem statement:
 Is there any patterns of different groups of the students based on the features. Can we compute a model that predicts if a student is heavy drinker and can a model predict the students overall grade?
 
